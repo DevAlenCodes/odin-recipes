@@ -1,0 +1,44 @@
+body {
+font-family: 'sans-serif', 'Arial', 'Verdana', 'Helvetica'; 
+
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+ul, ol {
+    font-size: 22px;
+}
+
+li {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.links {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+
+#cook {
+    width: 300px;
+    height: 300px;
+}
+
+img#cookie, img#lasagna, img#muffin, img#cook {
+    display: block;
+    margin: 0 auto;
+
+}
+
+#cookie, #lasagna, #muffin {
+    width: 400px;
+    height: 350px;
+}
